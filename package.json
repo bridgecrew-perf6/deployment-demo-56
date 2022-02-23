@@ -1,7 +1,7 @@
 {
-  "dependencies": {
-    "express": "^4.17.3"
-  },
+"dependencies": {
+  "express": "^4.17.3"
+},
   "name": "deployment-demo",
   "version": "1.0.0",
   "main": "server/server.js",
